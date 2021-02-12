@@ -1,3 +1,7 @@
 body{
     background-image: url(back.jpg);
 }
+#tartalom{
+    width: 1000px;
+    margin: 0 auto 0 auto;
+}
