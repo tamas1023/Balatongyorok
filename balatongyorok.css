@@ -14,3 +14,15 @@ body{
     height: 200px;
     max-width: 1000px;
 }
+#batsanyi{
+    width: 450px;
+    background-color: #5B9CEA;
+    float: right;
+    margin-left: 100px;
+}
+#belmatyas{
+    width: 450px;
+    background-color: #5B9CEA;
+    float: right;
+    
+}
