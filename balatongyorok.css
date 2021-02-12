@@ -5,3 +5,12 @@ body{
     width: 1000px;
     margin: 0 auto 0 auto;
 }
+#header{
+    background-image: url(panorama.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-width: 650px;
+    height: 200px;
+    max-width: 1000px;
+}
