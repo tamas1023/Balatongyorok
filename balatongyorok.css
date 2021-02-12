@@ -1,10 +1,6 @@
 body{
     background-image: url(back.jpg);
 }
-#tartalom{
-    width: 1000px;
-    margin: 0 auto 0 auto;
-}
 #header{
     background-image: url(panorama.jpg);
     background-position: center;
@@ -13,6 +9,16 @@ body{
     min-width: 650px;
     height: 200px;
     max-width: 1000px;
+}
+#tartalom{
+    width: 1000px;
+    margin: 0 auto 0 auto;
+}
+img{
+    width: 130px;
+    float: right;
+    margin-right: 50px;
+    
 }
 #batsanyi{
     width: 450px;
@@ -26,9 +32,15 @@ body{
     float: right;
     
 }
-img{
-    width: 130px;
-    float: right;
-    margin-right: 50px;
-    
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+th{
+border: 1px solid black;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    background-color: #B0D1F1;
 }
